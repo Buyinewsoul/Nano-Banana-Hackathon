@@ -1,0 +1,5 @@
+{
+  "name": "Imaginative Canvas",
+  "description": "A next-generation photo editor powered by Gemini. Upload an image and use natural language to describe your edits, from adding objects to changing the entire scene. Experience the magic of AI-driven visual creation.",
+  "requestFramePermissions": []
+}
